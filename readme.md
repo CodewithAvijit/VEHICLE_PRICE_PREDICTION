@@ -98,8 +98,8 @@ These results demonstrate the model's high accuracy and its ability to generaliz
 
 ## Conclusion
 
-This project successfully demonstrates the application of machine learning in predicting vehicle prices. By leveraging advanced techniques such as label encoding and XGBoost regression, the model achieves robust performance with both high training and test accuracy. The project highlights the potential of machine learning to automate price estimation in the automotive industry, particularly for used car dealerships and online platforms.
+This project successfully demonstrates the application of machine learning in predicting vehicle prices. By leveraging advanced techniques such as label encoding and XGBoost regression, the model achieves robust performance with both high training and test accuracy. The project highlights the potential of machine learning to automate price estimation in the automotive industry, particularly for used car dealerships and online platforms.ss
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
