@@ -102,4 +102,4 @@ This project successfully demonstrates the application of machine learning in pr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details. 
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit) file for details. 
