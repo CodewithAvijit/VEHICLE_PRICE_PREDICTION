@@ -75,7 +75,7 @@ pip install -r requirements.txt
 ## Usage
 
 1. **Prepare the dataset:**  
-   Ensure that the dataset (`vehicle_data.csv`) is in the appropriate directory as specified in the script.
+   Ensure that the dataset (`dataset.csv`) is in the appropriate directory as specified in the script.
 
 2. **Run the prediction script:**  
    Execute the Python script to train the model and predict vehicle prices:
