@@ -23,7 +23,7 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/vehicle-price-prediction.git
+   git clone https://github.com/CodewithAvijit/vehicle-price-prediction.git
    ```
 
 2. **Navigate into the project directory:**
@@ -102,4 +102,4 @@ This project successfully demonstrates the application of machine learning in pr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details. 
