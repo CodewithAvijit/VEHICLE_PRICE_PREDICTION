@@ -1,7 +1,7 @@
 
 ## Demo
 
-![App Screenshot](assets/demo.gif)
+![App Screenshot](static/demo.gif)
 ```markdown
 # Vehicle Price Prediction
 
