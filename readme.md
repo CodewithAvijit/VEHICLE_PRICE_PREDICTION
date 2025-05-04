@@ -1,4 +1,7 @@
 
+## Demo
+
+![App Screenshot](assets\demo.gif)
 ```markdown
 # Vehicle Price Prediction
 
