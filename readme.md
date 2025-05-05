@@ -99,6 +99,10 @@ The model was evaluated using both training and test datasets. Below are the key
 
 These results demonstrate the model's high accuracy and its ability to generalize well to unseen data, making it reliable for real-world applications.
 
+## output
+
+![console interface](static/ss.png)
+
 ## Conclusion
 
 This project successfully demonstrates the application of machine learning in predicting vehicle prices. By leveraging advanced techniques such as label encoding and XGBoost regression, the model achieves robust performance with both high training and test accuracy. The project highlights the potential of machine learning to automate price estimation in the automotive industry, particularly for used car dealerships and online platforms.ss
